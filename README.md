@@ -5,5 +5,7 @@
   1.2.2 Logistic Regression with a Neural Network mindset                        
   1.3.1 Planar data classification with a hidden layer                            
   1.4.1 Building your Deep Neural Network Step by Step                   
-  1.4.2 Deep Neural Network Application Image Classification
+  1.4.2 Deep Neural Network Application Image Classification                                          
+                                            
+  2.1.1 Initialization
   
