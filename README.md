@@ -7,5 +7,6 @@
   1.4.1 Building your Deep Neural Network Step by Step                   
   1.4.2 Deep Neural Network Application Image Classification                                          
                                             
-  2.1.1 Initialization
+  2.1.1 Initialization                                  
+  2.1.2 Regularization
   
