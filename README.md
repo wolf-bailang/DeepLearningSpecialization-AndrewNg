@@ -6,7 +6,12 @@
   1.3.1 Planar data classification with a hidden layer                            
   1.4.1 Building your Deep Neural Network Step by Step                   
   1.4.2 Deep Neural Network Application Image Classification                                          
-                                            
+                                                         
+2.Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization                                          
   2.1.1 Initialization                                  
   2.1.2 Regularization
-  
+
+3.Structuring Machine Learning Projects                                        
+4.Convolutional Neural Networks                                          
+5.Sequence Models                                           
+
