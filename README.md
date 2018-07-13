@@ -10,7 +10,8 @@
 2.Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization                                          
   2.1.1 Initialization                                  
   2.1.2 Regularization
-  2.1.3 Gradient_Checking                                  
+  2.1.3 Gradient_Checking                                                                            
+  2.2.1 Optimization                                              
 
 3.Structuring Machine Learning Projects                                        
 4.Convolutional Neural Networks                                          
