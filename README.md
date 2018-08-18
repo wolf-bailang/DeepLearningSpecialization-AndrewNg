@@ -19,6 +19,17 @@
 4.Convolutional Neural Networks                                       
   4.1.1 Convolutional Neural Networks Application                                        
   4.2.1 Keras Tutorial - The Happy House (not graded)                                            
+  4.2.2 Residual Networks                                                                        
+  4.3.1 Car detection with YOLOv2                                                         
+  4.4.1 Art generation with Neural Style Transfer                         
+  4.4.2 Face Recognition for the Happy House
 
-5.Sequence Models                                           
+5.Sequence Models                                      
+  5.1.1 Building a Recurrent Neural Network                                    
+  5.1.2 Dinosaurus Island -- Character-level language model - (final) - learners                                
+  5.1.3 Improvise a Jazz Solo with an LSTM Network                                      
+  5.2.1 Operations on word vectors                                  
+  5.2.2 Emojify                                                      
+  5.3.1 Neural machine translation with attention - v4                                          
+  5.3.2 Trigger word detection
 
