@@ -86,7 +86,7 @@ def load_dataset(m):
 
 def preprocess_data(dataset, human_vocab, machine_vocab, Tx, Ty):
     
-    X, Y = zip(*dataset)
+    X, Y = zip(*dataset) # zip函数将数据样本按照属性分组为一个个列表,然后可以对每个属性计算均值和标准差。
     
     X = np.array([string_to_int(i, Tx, human_vocab) for i in X])
     Y = [string_to_int(t, Ty, machine_vocab) for t in Y]
